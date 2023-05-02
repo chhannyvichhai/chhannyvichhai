@@ -17,7 +17,7 @@ About me
 <code><img height="20" alt="spring" src="https://img.icons8.com/color/512/spring-logo.png"></code>    
 
 
-| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaaSun&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhannyvichhai&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chhannyvichhai&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhannyvichhai&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <img alt="Vichhai view count" width="20%" src="https://komarev.com/ghpvc/?username=chhannyvichhai&color=ff69b4&style=for-the-badge" />
